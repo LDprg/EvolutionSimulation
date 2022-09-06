@@ -4,7 +4,7 @@ project(EvolutionSimulation)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED true)
 
-set(SHARED_LIB FALSE)
+set(SHARED_LIB TRUE)
 
 add_subdirectory(src)
 
